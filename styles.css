@@ -1,8 +1,14 @@
 :root {
-  --brown: #2d1b00;
+/*  --brown: #2d1b00;
   --blue: #1e606e;
   --green: #5ab9a8;
   --mint: #c4f0c2;
+  */
+  --brown: #442d6e;
+  --blue: #d075b7;
+  --green: #f0d063;
+  --mint: #ffffff;
+ 
 
   --page-bg: var(--mint);
   --page-fg: var(--brown);
